@@ -64,3 +64,15 @@ Os navios possuem tamanhos variados, permitindo maior complexidade lógica no po
 2. Compile o código:
    ```bash
    javac BatalhaNaval.java
+
+ ## 🔄 Próximos passos
+
+Este projeto foi desenvolvido no início da minha graduação em Engenharia de Software e tem como objetivo principal o aprendizado.
+
+Como próximos passos de estudo, pretendo:
+- Melhorar a organização do código
+- Aprender e aplicar conceitos básicos de Programação Orientada a Objetos
+- Explorar versões futuras do jogo com interface gráfica (fora do terminal)
+
+Este repositório representa minha evolução no aprendizado de programação.
+
